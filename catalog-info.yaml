@@ -7,7 +7,7 @@ metadata:
       url: https://github.com/porasm1998
   annotations:
     github.com/project-slug: porasm1998/Tengen-AI
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://github.com/porasm1998/Tengen-AI
    
 spec:
   type: other
