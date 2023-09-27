@@ -3,8 +3,9 @@ kind: Component
 metadata:
   name: Tengen-AI
   annotations:
-    github.com/project-slug: porasm1998/Tengen-AI
+    github.com/project-slug: poras-m/Tengen-AI
+    backstage.io/techdocs-ref: poras-m/Tengen-AI
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: production
   owner: backstage
