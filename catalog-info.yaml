@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Tengen-AI
+  annotations:
+    github.com/project-slug: porasm1998/Tengen-AI
+    backstage.io/techdocs-ref: value
+
+ links:
+    - url: https://github.com/porasm1998
+      title: My Dashboard
+      icon: dashboard    
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
