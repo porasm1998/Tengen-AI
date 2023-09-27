@@ -7,8 +7,8 @@ metadata:
     backstage.io/techdocs-ref: value
     links:
       - url: "https://github.com/porasm1998"
-        title: My Dashboard
-        icon: dashboard    
+        title: "My Dashboard"
+        icon: "dashboard"    
 spec:
   type: other
   lifecycle: unknown
