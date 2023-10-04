@@ -1,4 +1,4 @@
-name: CI
+name: EC2-deployment
 
 on:
   push:
