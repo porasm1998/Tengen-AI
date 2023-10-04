@@ -23,7 +23,7 @@ jobs:
         run: npm install
 
       - name: Build React App
-        run: npm run build
+        run: next build
 
       - name: Deploy to EC2
         env:
